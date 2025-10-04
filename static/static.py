@@ -1,5 +1,8 @@
-# static.py
-
+HTML = """
+I am about as tall as my father now.
+She went over to see if her name was there.
+What's the weather like today?
+"""
 HTML = """
 <!DOCTYPE html>
 <html>
